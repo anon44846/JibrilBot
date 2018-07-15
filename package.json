@@ -1,0 +1,15 @@
+{
+  "name": "jibrilbot",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Godel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "tatsumaki.js": "0.0.1"
+  }
+}
